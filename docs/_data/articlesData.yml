@@ -1,0 +1,17 @@
+categories:
+ - id: java
+   title: جافا
+   sub_category:
+     - title: 'مقدمة عن الجافا'
+       url:   'programming/java/java-intro.html'
+     - title: 'المتغيرات'
+       url:   'programming/java/java-variables.html'
+ - id: C
+   title: لغة السي
+   sub_category:
+      - title: 'مقدمة'
+        url:  '#'
+      - title: 'ادوات الطباعة'
+        url:  '#'  
+  
+  
