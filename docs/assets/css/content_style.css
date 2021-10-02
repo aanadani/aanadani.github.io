@@ -8266,7 +8266,8 @@ a[data-toggle="collapse"] {
   min-height: 100vh;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
-  transition: all 0.3s; }
+  transition: all 0.3s;
+  line-height: 108%;}
 
 .btn.btn-primary {
   background: #f8b739;
@@ -8277,3 +8278,9 @@ a[data-toggle="collapse"] {
 
 .footer p {
   color: rgba(255, 255, 255, 0.5); }
+.page {
+  max-width: 100%;
+}
+.content-image {
+  max-width: 100%;
+}

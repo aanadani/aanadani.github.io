@@ -5,14 +5,52 @@ categories:
      - title: 'مقدمة عن الجافا'
        url:   'programming/java/java-intro.html'
 
+     - title: 'تهيئة بيئة التطوير'
+       url:   'programming/java/java-ide-preparation.html'
+
+     - title: 'اساسيات في الجافا'
+       url:   'programming/java/java-basics.html'
+
      - title: 'المتغيرات'
        url:   'programming/java/java-variables.html'
 
      - title: 'التعليقات'
        url:   'programming/java/java-comments.html'
 
-     - title: 'example'
-       url:   '#'
+     - title: 'العوامل'
+       url:   'programming/java/java-operators.html'
+
+     - title: 'السلاسل النصية'
+       url:   'programming/java/java-strings.html'
+
+     - title: 'الجمل الشرطية'
+       url:   'programming/java/java-conditions.html'
+
+     - title: 'حلقات التكرار'
+       url:   'programming/java/java-loops.html'
+
+     - title: 'الدوال'
+       url:   'programming/java/java-functions.html'
+
+     - title: 'المصفوفات'
+       url:   'programming/java/java-arrays.html'
+
+ - id: 'Computer-Science'
+   title: ابدا هكر
+   sub_category:
+      - title: hydra اداة
+        url: 'computer-science/hacking/hacking-1-hydra.html'
+
+      - title: 'الثغرات الالكترونية'
+        url: 'computer-science/hacking/hacking-2-vulnerability.html'
+
+ - id: git
+   title: الجيت
+   sub_category:
+      - title: 'مقدمة'
+        url:  '#'
+      - title: 'الاضافة الى الريبو المحلي'
+        url:  '#'
 
  - id: C
    title: لغة السي
