@@ -136,7 +136,7 @@ a {
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #0056b3;
+    color: orange;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -8143,7 +8143,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #f8b739; }
+  color: darkblue; }
   a:hover, a:focus {
     text-decoration: none !important;
     outline: none !important;
@@ -8282,5 +8282,26 @@ a[data-toggle="collapse"] {
   max-width: 100%;
 }
 .content-image {
+  max-width: inherit;
+  border: solid;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+div.content-image img {
   max-width: 100%;
+}
+
+.code-box{
+  text-align: left;  margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1;
+}
+
+.terminal-box{
+  text-align: left;  margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: black; color: yellow; padding: 1em;
+}
+
+.content-p {
+  line-height: normal;
+  font-size: 12pt;
+  color:dimgray;
 }

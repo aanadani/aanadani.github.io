@@ -52,12 +52,26 @@ categories:
       - title: 'الاضافة الى الريبو المحلي'
         url:  '#'
 
+ - id: algorithms
+   title: الخوارزميات
+   sub_category:
+      - title: 'bubble sort - ترتيب الفقاعات'
+        url:  'computer-science/algorithms/bubble-sort.html'
+      - title: 'insertion sort - ترتيب بالإدراج'
+        url:  'computer-science/algorithms/insertion-sort.html'
+
  - id: C
    title: لغة السي
    sub_category:
       - title: 'مقدمة'
         url:  '#'
       - title: 'ادوات الطباعة'
-        url:  '#'  
-  
-  
+        url:  '#'
+
+ - id: OS
+   title: أنظمة التشغيل
+   sub_category:
+      - title: 'مقدمة'
+        url:  'computer-science/os/operating-systems-intro.html'
+      - title: 'العمليات على الملفات و المجلدات'
+        url:  '#'

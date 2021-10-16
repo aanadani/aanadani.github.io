@@ -30,7 +30,7 @@ type: 'course'
 </p>
 <ol>
 	<li><p dir="rtl" align="right" style="margin-bottom: 0in; line-height: 0.31in">
-	<img class="content-image" src="ide-preparation_html_209f4b7a0c7c4534.png" name="Picture 4" align="bottom" width="527" height="309" border="0"/>
+	<img class="content-image" src="/assets/img/java/ide-preparation_html_209f4b7a0c7c4534.png" name="Picture 4" align="bottom" width="527" height="309" border="0"/>
 
 </p>
 </ol>
@@ -44,7 +44,7 @@ type: 'course'
 </p>
 </ol>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_4eab65740a63069d.png" name="Picture 5" align="bottom" width="576" height="348" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_4eab65740a63069d.png" name="Picture 5" align="bottom" width="576" height="348" border="0"/>
 
 </p>
 <ol start="3">
@@ -58,7 +58,7 @@ type: 'course'
 </p>
 </ol>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_87f6ec59e6887210.png" name="Picture 6" align="bottom" width="576" height="345" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_87f6ec59e6887210.png" name="Picture 6" align="bottom" width="576" height="345" border="0"/>
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
 <font face="Arial"><font color="#000000"><span style="background: #f1f1f1"><font size="3" style="font-size: 12pt">الآن
@@ -75,7 +75,7 @@ x64</b></font></font></font><font color="#000000"><font face="droid_arabic_naskh
 
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_fb9b5b2d822b1168.png" name="Picture 10" align="bottom" width="576" height="357" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_fb9b5b2d822b1168.png" name="Picture 10" align="bottom" width="576" height="357" border="0"/>
 
 </p>
 <p dir="rtl" align="right" style="margin-top: 0.1in; margin-bottom: 0.1in; line-height: 0.31in">
@@ -90,7 +90,7 @@ x64</b></font></font></font><font color="#000000"><font face="droid_arabic_naskh
 </p>
 </ol>
 <p dir="rtl" align="right" style="margin-top: 0.1in; margin-bottom: 0.1in; line-height: 0.31in">
-<img src="ide-preparation_html_6c3b5ea4f07dec1d.png" name="Picture 17" align="bottom" width="555" height="161" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_6c3b5ea4f07dec1d.png" name="Picture 17" align="bottom" width="555" height="161" border="0"/>
 
 </p>
 <ol start="2">
@@ -105,7 +105,7 @@ x64</b></font></font></font><font color="#000000"><font face="droid_arabic_naskh
 
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_9a1c17dc2e2da89b.png" name="Picture 18" align="bottom" width="576" height="498" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_9a1c17dc2e2da89b.png" name="Picture 18" align="bottom" width="576" height="498" border="0"/>
 
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
@@ -127,7 +127,7 @@ x64</b></font></font></font><font color="#000000"><font face="droid_arabic_naskh
 </p>
 </ol>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_5f97c29087f5e9c0.png" name="Picture 19" align="bottom" width="576" height="361" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_5f97c29087f5e9c0.png" name="Picture 19" align="bottom" width="576" height="361" border="0"/>
 
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0in; line-height: 0.31in">
@@ -140,7 +140,7 @@ x64</b></font></font></font><font color="#000000"><font face="droid_arabic_naskh
 
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_998a5a8788f9d80.png" name="Picture 20" align="bottom" width="576" height="352" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_998a5a8788f9d80.png" name="Picture 20" align="bottom" width="576" height="352" border="0"/>
 
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
@@ -152,7 +152,7 @@ for updates</b></font></font></font><font color="#000000"><font face="droid_arab
 إضغط على&nbsp;</font></font></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="4" style="font-size: 14pt"><b><font color="#622a62">Install</b></font></font></font><font face="droid_arabic_naskh_regular, serif"><font size="4" style="font-size: 14pt"><span style="background: #f1f1f1"><font color="#000000">.</font></font></font>
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_c9c49cd2e59bee31.png" name="Picture 21" align="bottom" width="576" height="357" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_c9c49cd2e59bee31.png" name="Picture 21" align="bottom" width="576" height="357" border="0"/>
 
 </p>
 <ol start="6">
@@ -164,7 +164,7 @@ for updates</b></font></font></font><font color="#000000"><font face="droid_arab
 </p>
 </ol>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_a0bf628b7f2e66a0.png" name="Picture 22" align="bottom" width="576" height="380" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_a0bf628b7f2e66a0.png" name="Picture 22" align="bottom" width="576" height="380" border="0"/>
 
 </p>
 <ol start="7">
@@ -182,7 +182,7 @@ for updates</b></font></font></font><font color="#000000"><font face="droid_arab
 </p>
 <ol start="7">
 	<li><p dir="rtl" align="right" style="margin-bottom: 0in; line-height: 0.31in">
-	<img src="ide-preparation_html_40e3e55c326c6462.png" name="Picture 23" align="bottom" width="576" height="481" border="0"/>
+	<img src="/assets/img/java/ide-preparation_html_40e3e55c326c6462.png" name="Picture 23" align="bottom" width="576" height="481" border="0"/>
 
 </p>
 </ol>
@@ -261,7 +261,7 @@ for updates</b></font></font></font><font color="#000000"><font face="droid_arab
 
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0in; line-height: 0.31in; background: #f1f1f1">
-<img src="ide-preparation_html_e79fee4d34bd9e43.png" name="Picture 24" align="bottom" width="388" height="364" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_e79fee4d34bd9e43.png" name="Picture 24" align="bottom" width="388" height="364" border="0"/>
 
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
@@ -286,7 +286,7 @@ on startup </b></font></font></font><font color="#000000"><font face="droid_arab
 قم بإغلاق الصفحة</font></font><font face="droid_arabic_naskh_regular, serif"><font size="4" style="font-size: 14pt">.</font></font></font>
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_f2c18d8110b0fc79.png" name="Picture 25" align="bottom" width="576" height="351" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_f2c18d8110b0fc79.png" name="Picture 25" align="bottom" width="576" height="351" border="0"/>
 
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
@@ -301,7 +301,7 @@ on startup </b></font></font></font><font color="#000000"><font face="droid_arab
 </p>
 </ol>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_fed889e9fe120397.png" name="Picture 26" align="bottom" width="576" height="312" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_fed889e9fe120397.png" name="Picture 26" align="bottom" width="576" height="312" border="0"/>
 
 </p>
 <ol start="2">
@@ -315,7 +315,7 @@ on startup </b></font></font></font><font color="#000000"><font face="droid_arab
 </p>
 </ol>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_44ecaf8f5ec9e7dc.png" name="Picture 27" align="bottom" width="576" height="318" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_44ecaf8f5ec9e7dc.png" name="Picture 27" align="bottom" width="576" height="318" border="0"/>
 
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
@@ -342,7 +342,7 @@ on startup </b></font></font></font><font color="#000000"><font face="droid_arab
 في الصورة التالية</font></font><font face="droid_arabic_naskh_regular, serif"><font size="4" style="font-size: 14pt">.</font></font></font>
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_6be4b193d0fc85db.png" name="Picture 28" align="bottom" width="576" height="351" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_6be4b193d0fc85db.png" name="Picture 28" align="bottom" width="576" height="351" border="0"/>
 
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
@@ -358,7 +358,7 @@ on startup </b></font></font></font><font color="#000000"><font face="droid_arab
 كودات الجافا</font></font><font face="droid_arabic_naskh_regular, serif"><font size="4" style="font-size: 14pt">.</font></font></font>
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_f45b3fe4b57c0531.png" name="Picture 29" align="bottom" width="576" height="363" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_f45b3fe4b57c0531.png" name="Picture 29" align="bottom" width="576" height="363" border="0"/>
 
 </p>
 <ol start="5">
@@ -369,7 +369,7 @@ on startup </b></font></font></font><font color="#000000"><font face="droid_arab
 </p>
 </ol>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="ide-preparation_html_3a29b66c9a8aca2a.png" name="Picture 30" align="bottom" width="576" height="363" border="0"/>
+<img src="/assets/img/java/ide-preparation_html_3a29b66c9a8aca2a.png" name="Picture 30" align="bottom" width="576" height="363" border="0"/>
 
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
