@@ -1350,10 +1350,10 @@ pre {
   padding: 0.3rem; }
 
 .table-bordered {
-  border: 1px solid #dee2e6; }
+  border: 1px solid black; }
   .table-bordered th,
   .table-bordered td {
-    border: 1px solid #dee2e6; }
+    border: 1px solid black; }
   .table-bordered thead th,
   .table-bordered thead td {
     border-bottom-width: 2px; }
@@ -8293,7 +8293,7 @@ div.content-image img {
 }
 
 .code-box{
-  text-align: left;  margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1;
+  text-align: left;  margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1; padding-top:1em; padding-bottom: 1em;
 }
 
 .terminal-box{
@@ -8304,4 +8304,9 @@ div.content-image img {
   line-height: normal;
   font-size: 12pt;
   color:dimgray;
+}
+
+.item-selected {
+  color:blue;
+  background-color: lightgray;
 }
