@@ -17,3 +17,12 @@
   });
 
 })(jQuery);
+
+function hideFunction (divstring) {
+	var x = document.getElementById(divstring);
+	if (x.style.display == "none") {
+		x.style.display = "block";
+	} else {
+		x.style.display = "none";
+	}
+}

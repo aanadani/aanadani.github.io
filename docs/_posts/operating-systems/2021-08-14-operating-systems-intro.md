@@ -6,7 +6,7 @@ permalink: /:categories/:title.html
 type: 'course'
 ---
 
-<h3>
+<h3 style="color:orange;">
 تنفيذ الاوامر في الانظمه المعتمدة على لينكس
 </h3>
 
@@ -24,7 +24,7 @@ type: 'course'
 </h3>
 
 
-<h3>
+<h3 style="color:orange;">
 <bdi>
 موجه الأوامر -
 CLI
@@ -47,7 +47,7 @@ Unix
 command &lt;options&gt; &lt;arguments&gt;
 </div>
 
-<h3>
+<h3 style="color:orange;">
 <bdi>
 استخدام مساعدة النظام - الأمر
 man
@@ -116,3 +116,9 @@ man
 </a>
 للإنتقال للدرس التالي
 </p>
+
+<h3 style="color:orange;">
+<bdi>
+تدريب
+</bdi>
+</h3>

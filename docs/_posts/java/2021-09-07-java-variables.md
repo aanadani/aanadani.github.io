@@ -1,4 +1,4 @@
-Wo  ---
+---
 layout: "content"
 categories: programming java
 title:     "المتغيرات"

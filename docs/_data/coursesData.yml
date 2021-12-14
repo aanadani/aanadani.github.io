@@ -74,4 +74,6 @@ categories:
       - title: 'مقدمة'
         url:  'computer-science/os/operating-systems-intro.html'
       - title: 'العمليات على الملفات و المجلدات'
-        url:  '#'
+        url:  'computer-science/os/operating-systems-files-directories.html'
+      - title: 'العمليات في نظام التشغيل'
+        url:  'computer-science/os/operating-systems-processes.html'
