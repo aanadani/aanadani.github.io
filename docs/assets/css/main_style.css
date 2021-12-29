@@ -27,6 +27,13 @@ body {
 .red {
   background-color: #A31E00 ;
 }
+
+.center {
+  text-align: center;
+}
+.white {
+  background-color: #EEEEEE ;
+}
 .container-img {
   position: relative;
   max-height: 15em;
@@ -63,4 +70,21 @@ body {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
+}
+
+.border-right-1p {
+  border-right: 1px solid;
+  box-shadow: 1px 2px gray;
+}
+
+.border-left-1p {
+  border-right: 1px solid;
+}
+.main-content {
+  margin-top: 0.5rem;
+  border-right: 1px solid;
+}
+
+.unstyled-list {
+  list-style-type: none;
 }

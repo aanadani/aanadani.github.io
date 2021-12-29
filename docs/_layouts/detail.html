@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <title>{{page.title}}</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.rtl.min.css" integrity="sha384-gXt9imSW0VcJVHezoNQsP+TNrjYXoGcrqBZJpry9zJt8PCQjobwmhMGaDHTASo9N" crossorigin="anonymous">
+
+    <!-- Local Styles -->
+		<link rel="stylesheet" href="/assets/css/main_style.css">
+  </head>
+
+  <body>
+    <!-- first container with nav bars -->
+    <div class="contianer-fluid ">
+      <div class="row justify-content-center">
+        <div class="col-2 white">
+            <nav id="sidebar">
+              <div class="center">
+                <a href="#" class="navbar-brand">
+                  <img src="/assets/img/logo.png" alt="abc" class="logo" />
+                </a>
+              </div>
+            </nav>
+        </div>
+        <div class=" col-10 red">
+          <h1 >
+            عنوان
+          </h1>
+          <h5>
+            تجريبي
+          </h5>
+        </div>
+      </div>
+    </div>
+    <!-- Container with content-->
+    <div class="contianer-fluid ">
+      <div class="row justify-content-center">
+        <div class="col-2 white center border-right-1p">
+          <ul class="unstyled-list">
+            <li>
+جافا
+            </li>
+            <li>
+خوارزميات
+            </li>
+            <li>
+أنظمة تشغيل
+            </li>
+          </ul>
+        </div>
+        <div class="col-10 white border-right-1p" style="margin-top: 0.5rem;">
+          <div class="container">
+            <div class="row">
+              <div class="col-10">
+                {{ page.content}}
+              </div>
+              <div class="col-2 center">
+                <ul class="unstyled-list">
+                  <li>
+مقدمة
+                  </li>
+                  <li>
+متغيرات
+                  </li>
+                </ul> 
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
