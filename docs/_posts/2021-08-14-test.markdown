@@ -1,0 +1,7 @@
+---
+layout: main
+title:  "new post"
+permalink: :title.html
+---
+
+TEST TEST
