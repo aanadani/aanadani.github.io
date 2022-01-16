@@ -1,5 +1,5 @@
 ---
-layout: "content"
+layout: "detail"
 categories: programming java
 title:     "تهيئة بيئة التطوير"
 permalink: /:categories/:title.html

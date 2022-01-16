@@ -1,5 +1,5 @@
 ---
-layout: "content"
+layout: "detail"
 categories: programming java
 title:     "حلقات التكرار"
 permalink: /:categories/:title.html

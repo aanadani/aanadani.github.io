@@ -1,5 +1,5 @@
 ---
-layout: "content"
+layout: "detail"
 title:  "مقدمة"
 categories: computer-science os
 permalink: /:categories/:title.html

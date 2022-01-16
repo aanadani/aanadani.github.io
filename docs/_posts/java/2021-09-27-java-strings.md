@@ -1,5 +1,5 @@
 ---
-layout: "content"
+layout: "detail"
 categories: programming java
 title:     "السلاسل النصية"
 permalink: /:categories/:title.html
