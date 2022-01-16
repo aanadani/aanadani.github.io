@@ -1,5 +1,5 @@
 ---
-layout: "content"
+layout: "detail"
 categories: computer-science hacking
 title:     "التهكير الاخلاقي - هيدرا"
 permalink: /:categories/:title.html

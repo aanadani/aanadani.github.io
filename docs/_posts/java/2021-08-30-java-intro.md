@@ -1,5 +1,5 @@
 ---
-layout: "content"
+layout: "detail"
 categories: programming java
 title:     "مدخل الى الجافا"
 permalink: /:categories/:title.html

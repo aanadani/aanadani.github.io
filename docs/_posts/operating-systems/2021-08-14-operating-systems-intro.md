@@ -1,5 +1,5 @@
 ---
-layout: "content"
+layout: "detail"
 title:  "مقدمة"
 categories: computer-science os
 permalink: /:categories/:title.html
@@ -83,8 +83,8 @@ man
 كالتالي:
 </bdi>  
 </p>
-<div class="content-image">
-<img  src="/assets/img/os/os-intro1.png" alt="os intro photo 1"/>
+<div >
+<img  class="content-image" src="/assets/img/os/os-intro1.png" alt="os intro photo 1"/>
 </div>
 <p class="content-p">
 <bdi>

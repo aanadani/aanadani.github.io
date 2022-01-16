@@ -1,5 +1,5 @@
 ---
-layout: "content"
+layout: "detail"
 categories: programming java
 title:     "اساسيات في الجافا"
 permalink: /:categories/:title.html

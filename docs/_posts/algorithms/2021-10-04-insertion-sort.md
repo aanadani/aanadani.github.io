@@ -1,5 +1,5 @@
 ---
-layout: "content"
+layout: "detail"
 categories: computer-science algorithms
 title:     "ترتيب بالإدراج"
 permalink: /:categories/:title.html

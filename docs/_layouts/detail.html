@@ -1,7 +1,18 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
   <head>
-    <title>{{page.title}}</title>
+		{% if page.type == 'course' %}
+		{% assign categories = site.data.coursesData.categories %}
+		{% else %}
+		{% assign categories = site.data.articlesData.categories %}
+		{% endif %}
+    {% for category in categories %}
+      {% if page.id contains category.id %}
+        {% assign masterTitle = category.title %}
+        <title>{{masterTitle}}</title>
+      {% endif %}
+    {% endfor %}   
+
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,17 +32,17 @@
             <nav id="sidebar">
               <div class="center">
                 <a href="#" class="navbar-brand">
-                  <img src="/assets/img/logo.png" alt="abc" class="logo" />
+                  <img src="/assets/img/logo_new.png" alt="abc" class="logo" />
                 </a>
               </div>
             </nav>
         </div>
         <div class=" col-10 red">
-          <h1 >
-            عنوان
+          <h1 class="master-title">
+            {{masterTitle}}
           </h1>
-          <h5>
-            تجريبي
+          <h5 class="common-title">
+            {{page.title}}
           </h5>
         </div>
       </div>
@@ -40,32 +51,33 @@
     <div class="contianer-fluid ">
       <div class="row justify-content-center">
         <div class="col-2 white center border-right-1p">
-          <ul class="unstyled-list">
-            <li>
-جافا
-            </li>
-            <li>
-خوارزميات
-            </li>
-            <li>
-أنظمة تشغيل
-            </li>
+          <ul class="unstyled-list" style="font-size: 1.2rem;">
+            {% for category in categories %}
+              <li>
+                <a href="/{{category.sub_category.first.url}}">
+                  {{category.title}}
+                </a>
+              </li>
+            {% endfor %}
           </ul>
         </div>
         <div class="col-10 white border-right-1p" style="margin-top: 0.5rem;">
           <div class="container">
             <div class="row">
-              <div class="col-10">
+              <div class="col-10 border-left-1p">
                 {{ page.content}}
               </div>
               <div class="col-2 center">
-                <ul class="unstyled-list">
-                  <li>
-مقدمة
-                  </li>
-                  <li>
-متغيرات
-                  </li>
+                <ul class="unstyled-list list">
+                  {% for category in categories %}
+                    {% if page.id contains category.id %}
+                      {% for subcat in category.sub_category %}
+                      <li class="list-item" tyle="text-align:right;">
+                        <a href="/{{subcat.url}}">{{subcat.title}}</a>
+                      </li>
+                      {% endfor %}
+                    {% endif %}
+                  {% endfor %}                 
                 </ul> 
               </div>
             </div>

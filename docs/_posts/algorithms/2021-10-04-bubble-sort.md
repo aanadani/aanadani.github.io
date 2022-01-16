@@ -1,5 +1,5 @@
 ---
-layout: "content"
+layout: "detail"
 categories: computer-science algorithms
 title:     "ترتيب الفقاعات"
 permalink: /:categories/:title.html
@@ -211,7 +211,7 @@ type: 'course'
 كود الخوارزمية:
   </h3>
 </bdi>
-  <div class="code-box">
+  <div class="terminal-box">
     <p>
     <pre style="line-height: 1.5em;">
 // C++ program for implementation of Bubble sort 

@@ -1,7 +1,6 @@
 ---
 layout: main
-title:  "new post"
+title:  "كورسات"
 permalink: :title.html
+type: course
 ---
-
-TEST TEST

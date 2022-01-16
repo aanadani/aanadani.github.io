@@ -1,5 +1,5 @@
 ---
-layout: "content"
+layout: "detail"
 categories: programming java
 title:     "المتغيرات"
 permalink: /:categories/:title.html

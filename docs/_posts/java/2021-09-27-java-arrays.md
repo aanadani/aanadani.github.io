@@ -1,5 +1,5 @@
 ---
-layout: "content"
+layout: "detail"
 categories: programming java
 title:     "المصفوفات"
 permalink: /:categories/:title.html
