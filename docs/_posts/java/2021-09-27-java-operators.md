@@ -269,13 +269,10 @@ type: 'course'
 			<font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">==</span></b></font></font></font></p>
 		</td>
 		<td width="130" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<span style="display: inline-block; border: none; padding: 0in"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">(</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a
-			== b</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">)</span></font></font></font></p>
+			(a==b)</p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #ffffff"><font size="2" style="font-size: 10pt">هل
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">تساوي
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">b</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">؟</font></span></font></span></font></p>
+			هل قيمة a تساوي قيمة b ؟ </p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -287,13 +284,10 @@ type: 'course'
 			<font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">!=</span></b></font></font></font></p>
 		</td>
 		<td width="130" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<span style="display: inline-block; border: none; padding: 0in"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">(</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a
-			!= b</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">)</span></font></font></font></p>
+			(a!=b) </p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #f1f1f1"><font size="2" style="font-size: 10pt">هل
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">لا
-			تساوي قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">b</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">؟</font></span></font></span></font></p>
+			هل قيمة a لا تساوي قيمة b ؟ </p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -305,13 +299,11 @@ type: 'course'
 			<font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">&gt;</span></b></font></font></font></p>
 		</td>
 		<td width="130" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<span style="display: inline-block; border: none; padding: 0in"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">(</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a
-			&gt; b</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">)</span></font></font></font></p>
+			(a
+			&gt; b) </p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #ffffff"><font size="2" style="font-size: 10pt">هل
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">أكبر
-			من قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">b</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">؟</font></span></font></span></font></p>
+			هل قيمة a أكبر من قيمة b ؟ </p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -323,53 +315,40 @@ type: 'course'
 			<font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">&lt;</span></b></font></font></font></p>
 		</td>
 		<td width="130" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<span style="display: inline-block; border: none; padding: 0in"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">(</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a
-			&lt; b</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">)</span></font></font></font></p>
+			(a
+			&lt; b) </p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #f1f1f1"><font size="2" style="font-size: 10pt">هل
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">أصغر
-			من قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">b</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">؟</font></span></font></span></font></p>
+			هل قيمة a أصغر من قيمة b ؟ </p>
 		</td>
 	</tr>
 	<tr valign="top">
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt"><b><span style="background: #ffffff">Greater
-			than</span></b></font></font></font><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt"><b><br/>
-</b></font></font></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt"><b><span style="background: #ffffff"><font color="#000000">or</span></span></b></font></font></font><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt"><b><span style="background: #ffffff">&nbsp;Equal
-			to</span></b></font></font></font></p>
+			<font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt"><b><span style="background: #f1f1f1"> Greater than or Equal to
+			</span></b></font></font></font></p>
 		</td>
 		<td width="130" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
 			<font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">&gt;=</span></b></font></font></font></p>
 		</td>
 		<td width="130" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<span style="display: inline-block; border: none; padding: 0in"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">(</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a
-			&gt;= b</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">)</span></font></font></font></p>
+			(a&gt;=b) </p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #ffffff"><font size="2" style="font-size: 10pt">هل
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">أكبر
-			أو تساوي قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">b</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">؟</font></span></font></span></font></p>
+			هل قيمة a أكبر أو تساوي قيمة b ؟ </p>
 		</td>
 	</tr>
 	<tr valign="top">
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt"><b><span style="background: #f1f1f1">Less
-			than</span></b></font></font></font><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt"><b><br/>
-</b></font></font></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt"><b><span style="background: #f1f1f1"><font color="#000000">or</span></span></b></font></font></font><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt"><b><span style="background: #f1f1f1">&nbsp;Equal
-			to</span></b></font></font></font></p>
+			<font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt"><b><span style="background: #f1f1f1"> Less than or Equal to </span></b></font></font></font></p>
 		</td>
 		<td width="130" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
 			<font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">&lt;=</span></b></font></font></font></p>
 		</td>
 		<td width="130" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<span style="display: inline-block; border: none; padding: 0in"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">(</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a
-			&lt;= b</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">)</span></font></font></font></p>
+			(a&lt;=b) </p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #f1f1f1"><font size="2" style="font-size: 10pt">هل
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">أصغر
-			أو تساوي قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">b</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</span></font></font></font></p>
+			هل قيمة a أصغر أو تساوي قيمة b ؟ </p>
 		</td>
 	</tr>
 </table>
@@ -415,17 +394,11 @@ type: 'course'
 			<font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">&amp;&amp;</span></b></font></font></font></p>
 		</td>
 		<td width="130" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<span style="display: inline-block; border: none; padding: 0in"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">(</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a
-			&amp;&amp; b</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">)</span></font></font></font></p>
+			(a &amp;&amp; b)</p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right" style="margin-bottom: 0in">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #ffffff"><font size="2" style="font-size: 10pt">ل
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">و&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">b</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #ffffff">&nbsp;
-			</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">متساويان
-			؟</font></span></font></span></font></p>
-			<p align="right"><font color="#000000"><span style="background: #ffffff">
-			<font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">هنا
-			يجب أن يتحقق الشرطان</font></span></font></span></font></p>
+	        هل قيمة a و b متساويتان؟ <br/> 
+			هنا يجب أن يتحقق الشرطان </p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -436,15 +409,11 @@ type: 'course'
 			<font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">||</span></b></font></font></font></p>
 		</td>
 		<td width="130" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<span style="display: inline-block; border: none; padding: 0in"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">(</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a
-			|| b</font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">)</span></font></font></font></p>
+			(a || b)</p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right" style="margin-bottom: 0in">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #f1f1f1"><font size="2" style="font-size: 10pt">هل
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">أو&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">b</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">أو
-			كلاهما تساويان&nbsp;؟</font></span></font></span></font></p>
-			<p align="right"><font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #f1f1f1"><font size="2" style="font-size: 10pt">هنا
-			يكفي أن يتم تحقيق شرط واحد من الشرطين</font></span></font></span></font></p>
+			هل قيمة a أو b أو كلاهما متساويان؟  <br/>
+			هنا يكفي أن يتم تحقيق شرط واحد من الشرطين </p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -458,12 +427,9 @@ type: 'course'
 			<font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">!a</span></b></font></font></font></p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right" style="margin-bottom: 0in">
-			<font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><br/>
-</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">هل
-			قيمة&nbsp;</font></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">لا
-			تساوي ؟</font></font></span></font></p>
-			<p align="right"><br/>
+			هل قيمة a لا تساوي؟ </p>
 
+			<p align="right"><br/>
 			</p>
 		</td>
 	</tr>
@@ -474,8 +440,8 @@ type: 'course'
 
 </p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<font face="Consolas, serif"><font size="3" style="font-size: 11pt">4-</font></font><font face="Arial"><span lang="ar-SA"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY">العوامل
-التي تستخدم للتعامل مع </span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt">Bits</font></font></p>
+<font size="3" style="font-size: 11pt">3-<font face="Courier New"><b> العوامل التي تستخدم للتعامل مع Bits </b></font></font></p>
+
 <table dir="rtl" width="575" cellpadding="7" cellspacing="0">
 	<col width="129"/>
 
@@ -516,14 +482,7 @@ type: 'course'
 			&amp; b</span></b></font></font></font></p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY">العامل
-			</span></font></font></span></font><font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">&amp;
-			</b></font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt"><b>يحسب
-			ناتج جمع ال </b></font></span></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b>Bits</span></b></font></font></font><font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">
-			</b></font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt"><span lang="ar-SY"><b>المشتركة
-			بين </b></span></font></span></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b>a
-			</b></font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt"><span lang="ar-SY"><b>و
-			</b></span></font></span></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b>b</span></b></font></font></font></p>
+			العامل &amp; يحسب ناتج جمع ال Bits المشتركة بين a و b</p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -539,14 +498,7 @@ type: 'course'
 			| b</span></b></font></font></font></p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY">العامل
-			</span></font></font></span></font><font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">|
-			</b></font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt"><b>يحسب
-			ناتج جمع  ال</b></font></span></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b>Bits</span></b></font></font></font><font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">
-			</b></font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt"><span lang="ar-SY"><b>المشتركة
-			وغير المشتركة  بين </b></span></font></span></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b>a
-			</b></font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt"><span lang="ar-SY"><b>و
-			</b></span></font></span></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b>b</span></b></font></font></font></p>
+			العامل | يحسب ناتج جمع ال Bits المشتركة وغير المشتركة بين a و b</p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -562,12 +514,7 @@ type: 'course'
 			^ b</span></b></font></font></font></p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY">العامل
-			</span></font></font></span></font><font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">^
-			</b></font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt"><b>يحسب
-			ناتج جمع  ال</b></font></span></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b>Bits</span></b></font></font></font><font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">
-			</b></font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt"><span lang="ar-SY"><b>غير
-			المشتركة</b></span></font></span></font></span></font></p>
+			العامل ^ يحسب ناتج جمع ال Bits غير المشتركة</p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -582,18 +529,7 @@ type: 'course'
 			<font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">~a</span></b></font></font></font></p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #f1f1f1"><font size="2" style="font-size: 9pt">العامل&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">~</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #f1f1f1">&nbsp;
-			</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">يقلب&nbsp;</font></span></font><span style="display: inline-block; border: none; padding: 0in"><font color="#000000"><span style="background: #f1f1f1"><font size="2" style="font-size: 9pt">الـ&nbsp;</font></span></font></span></font><font face="Helvetica, serif"><font size="2" style="font-size: 9pt"><b><font color="#000000">bits</span></b></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #f1f1f1">&nbsp;
-			</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">التي
-			تساوي&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #f1f1f1"><font color="#000000">0</span></span></b></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">إلى&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #f1f1f1"><font color="#000000">1</span></span></b></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">و
-			يقلب&nbsp;</font></span></font><span style="display: inline-block; border: none; padding: 0in"><font color="#000000"><span style="background: #f1f1f1"><font size="2" style="font-size: 9pt">الـ&nbsp;</font></span></font></span></font><font face="Helvetica, serif"><font size="2" style="font-size: 9pt"><b><font color="#000000">bits</span></b></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">التي
-			تساوي&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #f1f1f1"><font color="#000000">1</span></span></b></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">إلى&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 9pt"><b><font color="#000000">0</b></font></font></font><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #f1f1f1"><font color="#000000">,</span></span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><br/>
-</font></font></font><font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #f1f1f1"><font size="2" style="font-size: 9pt">ثم
-			يضيف عليهم&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #f1f1f1"><font color="#000000">1</span></span></b></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">و
-			يحسب ناتج جمعهم</font></span></font><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt">,
-			</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">بعدها
-			يضرب الجواب بالعامل&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #f1f1f1"><font color="#000000">(&nbsp;</span></font></font></font><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">-</font></font></font><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #f1f1f1"><font color="#000000">&nbsp;)</span></span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">ثم
-			يعطينا جواب </font></span></font><font color="#000000"><span style="background: #f1f1f1"><font size="2" style="font-size: 9pt">سلبي</font></font></span></span></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #f1f1f1">.</span></font></font></font></p>
+			العامل ~ يقلب ال bits التي تساوي 0 إلى 1 ويقلب ال bits التي تساوي 1 إلى 0، ثم يضيف عليهم 1 ويحسب ناتج جمعهم، بعدها يضرب الجواب بالعامل (-) ثم يعطينا جواب سلبي </p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -605,15 +541,12 @@ type: 'course'
 			<font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">&lt;&lt;</span></b></font></font></font></p>
 		</td>
 		<td width="130" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<span style="display: inline-block; border: none; padding: 0in"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a
-			&lt;&lt; </font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#009999">2</span></font></font></font></p>
+			a
+			&lt;&lt; 2</p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #ffffff"><font size="2" style="font-size: 9pt">العامل&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">&lt;&lt;</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">يزيح&nbsp;</font></span></font><span style="display: inline-block; border: none; padding: 0in"><font color="#000000"><span style="background: #ffffff"><font size="2" style="font-size: 9pt">الـ&nbsp;</font></span></font></span></font><font face="Helvetica, serif"><font size="2" style="font-size: 9pt"><b><font color="#000000">bits</span></b></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">من
-			آخر اليسار إلى أول اليمين</font></span></font><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt">.</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><br/>
-</font></font></font><font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #ffffff"><font size="2" style="font-size: 9pt">العدد&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #ffffff"><font color="#000000">2</span></span></b></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">يعني
-			أننا سنزيح آخر إثنين&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #ffffff"><font color="#000000">bits</span></span></b></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">و
-			نضعهم في الأول</font></span></font><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt">.</span></font></font></font></p>
+			العامل &lt;&lt; يزيح ال bits من آخر اليسار إلى أول اليمين. <br/>
+			العدد 2 يعني أننا سنزيح آخر اثنين bits ونضعهم في الأول. </p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -625,15 +558,13 @@ type: 'course'
 			<font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">&gt;&gt;</span></b></font></font></font></p>
 		</td>
 		<td width="130" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<span style="display: inline-block; border: none; padding: 0in"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a
-			&gt;&gt; </font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#009999">2</span></font></font></font></p>
+			a
+			&gt;&gt; 2</p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right" style="margin-bottom: 0in">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><font size="2" style="font-size: 9pt">العامل&nbsp;</font></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">&gt;&gt;</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">يزيح&nbsp;</font></font><span style="display: inline-block; border: none; padding: 0in"><font color="#000000"><font size="2" style="font-size: 9pt">الـ&nbsp;</font></font></span></font><font face="Helvetica, serif"><font size="2" style="font-size: 9pt"><font color="#000000">bits</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">من
-			أول اليمين إلى آخر اليسار</font></span></font><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt">.<br/>
-</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">العدد&nbsp;</font></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 9pt"><font color="#000000">2</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">يعني
-			أننا سنزيح أول إثنين&nbsp;</font></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 9pt"><font color="#000000">bits</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 9pt">و
-			نضعهم في الأخير</font></span></font><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 9pt">.</font></font></font></p>
+			العامل &gt;&gt; يزيح ال bits من أول اليمين إلى آخر اليسار. <br/>
+			العدد 2 يعني أننا سنزيح أول اثنين bits ونضعهم في الأخير. </p>
+
 			<p align="right"><br/>
 
 			</p>
@@ -648,17 +579,12 @@ type: 'course'
 			<font color="#000000"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><b><span style="background: #fafafa">&gt;&gt;&gt;</span></b></font></font></font></p>
 		</td>
 		<td width="130" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<span style="display: inline-block; border: none; padding: 0in"><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a
-			&gt;&gt;&gt; </font></font></font><font face="Source Code Pro, serif"><font size="2" style="font-size: 9pt"><font color="#009999">2</span></font></font></font></p>
+			a
+			&gt;&gt;&gt; 2</p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #ffffff"><font size="1" style="font-size: 8pt">لعامل&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="1" style="font-size: 8pt"><font color="#000000">&gt;&gt;&gt;</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="1" style="font-size: 8pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="1" style="font-size: 8pt">يزيح&nbsp;</font></span></font><span style="display: inline-block; border: none; padding: 0in"><font color="#000000"><span style="background: #ffffff"><font size="1" style="font-size: 8pt">الـ&nbsp;</font></span></font></span></font><font face="Helvetica, serif"><font size="1" style="font-size: 8pt"><b><font color="#000000">bits</span></b></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="1" style="font-size: 8pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="1" style="font-size: 8pt">من
-			أول اليمين ثم يبدلهم بأصفار و يضعهم
-			في آخر اليسار</font></span></font><font face="droid_arabic_naskh_regular, serif"><font size="1" style="font-size: 8pt">.</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="1" style="font-size: 8pt"><br/>
-</font></font></font><font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #ffffff"><font size="1" style="font-size: 8pt">العدد&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="1" style="font-size: 8pt"><b><span style="background: #ffffff"><font color="#000000">2</span></span></b></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="1" style="font-size: 8pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="1" style="font-size: 8pt">يعني
-			أننا سنمسح أول</font></span></font><font color="#000000"><span style="background: #ffffff"><font size="2" style="font-size: 10pt">
-			</font></span></font><font color="#000000"><span style="background: #ffffff"><font size="1" style="font-size: 8pt">إثنين&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="Helvetica, serif"><font size="1" style="font-size: 8pt"><b><span style="background: #ffffff"><font color="#000000">bits</span></span></b></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="1" style="font-size: 8pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="1" style="font-size: 8pt">و
-			نضع بدالهم صفرين في الأخير</font></span></font><font face="droid_arabic_naskh_regular, serif"><font size="1" style="font-size: 8pt">.</span></font></font></font></p>
+			العامل &gt;&gt;&gt; يزيح ال bits من أول اليمين ثم يبدلهم بأصفار ويضعهم في آخر اليسار. <br/>
+			العدد 2 يعني أننا سنمسح أول اثنين bits ونضع بدلاً عنهم صفرين في الأخير. </p>
 		</td>
 	</tr>
 </table>
@@ -724,10 +650,7 @@ type: 'course'
 			+= b</span></b></font></font></font></p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #f1f1f1"><font size="2" style="font-size: 10pt">أضف
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">على
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">b</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">و
-			خزن الناتج في&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font></p>
+			أضف قيمة a إلى قيمة b وخزّن الناتج في a</p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -743,10 +666,7 @@ type: 'course'
 			-= b</span></b></font></font></font></p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #ffffff"><font size="2" style="font-size: 10pt">أنقص
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">من
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">b</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">و
-			خزن الناتج في&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font></p>
+			أنقص قيمة a من قيمة b وخزّن الناتج في a</p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -762,9 +682,7 @@ type: 'course'
 			*= b</span></b></font></font></font></p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #f1f1f1"><font size="2" style="font-size: 10pt">أضرب
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">بقيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">b</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">و
-			خزن الناتج في&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font></p>
+			اضرب قيمة a بقيمة b وخزّن الناتج في a </p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -780,10 +698,7 @@ type: 'course'
 			/= b</span></b></font></font></font></p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #ffffff"><font size="2" style="font-size: 10pt">أقسم
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">على
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">b</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #ffffff">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">و
-			خزن الناتج في&nbsp;</font></span></font></span></font></p>
+			قم بتقسيم قيمة a على قيمة b وخزّن الناتج في a </p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -799,19 +714,11 @@ type: 'course'
 			%= b</span></b></font></font></font></p>
 		</td>
 		<td width="129" style="border: 1px solid #000000; padding: 0in 0.08in"><p align="right">
-			<font face="Arial"><span lang="ar-SA"><font color="#000000"><span style="background: #f1f1f1"><font size="2" style="font-size: 10pt">أقسم
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">على
-			قيمة&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">b</span></font></font></font><font color="#000000"><font face="droid_arabic_naskh_regular, serif"><font size="2" style="font-size: 10pt"><span style="background: #f1f1f1">&nbsp;</font></font><font face="Arial"><span lang="ar-SA"><font size="2" style="font-size: 10pt">و
-			خزن آخر رقم يبقى من عملية القسمة في&nbsp;</font></span></font></span></font><span style="display: inline-block; border: none; padding: 0in"><font face="inherit, serif"><font size="2" style="font-size: 9pt"><font color="#000000">a</span></font></font></font></p>
+			قم بتقسيم قيمة a على قيمة b وخزّن باقي القسمة في a </p>
 		</td>
 	</tr>
 </table>
-<p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<img src="operators_html_119a6386ff7f5d96.gif" name="Shape1" alt="Shape1" align="left"/>
-<br/>
-<br/>
 
-</p>
 <p style="margin-bottom: 0.11in; line-height: 108%"><br/>
 <br/>
 
