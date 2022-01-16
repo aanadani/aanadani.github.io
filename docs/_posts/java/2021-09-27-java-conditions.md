@@ -9,31 +9,39 @@ type: 'course'
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
 <font face="Arial"><span lang="ar-SA"><font face="Courier New"><font size="4" style="font-size: 16pt"><span lang="ar-SY"><b>الجمل
 الشرطية في جافا </b></span></font></font></span></font><font face="Consolas, serif"><font size="4" style="font-size: 16pt"><b>:</b></font></font></p>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
 <font face="Arial"><span lang="ar-SA"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY">تستخدم
 </span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt"><b>if</b></font></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
  </font></font><font face="Arial"><span lang="ar-SA"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY">لتحديد
 مجموعة من التعليمات البرمجية ليتم
 تنفيذها اذا كان الشرط محقق</span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt">true</font></font></p>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<font face="Arial"><span lang="ar-SA"><font color="#ff0000"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY"><b>مثال
-</b></span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt"><b>:</b></font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<font color="#ff0000"><b>مثال
+</b><b>:</b></font></p>
+
+<div class="code-box">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font face="Courier New, serif"><font size="2" style="font-size: 10pt"><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">if</font></font></font><font face="Courier New, serif"><font size="2" style="font-size: 10pt"><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">20</font></font></font><font face="Courier New, serif"><font size="2" style="font-size: 10pt"><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&gt;</font></font></font><font face="Courier New, serif"><font size="2" style="font-size: 10pt"><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">18</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">)</font></font></font><font face="Courier New, serif"><font size="2" style="font-size: 10pt"><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">{</font></font></font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font face="Courier New, serif"><font size="2" style="font-size: 10pt"><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font face="Courier New, serif"><font size="2" style="font-size: 10pt"><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;20
 is greater than 18&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font face="Courier New, serif"><font size="2" style="font-size: 10pt"><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">}</font></font></font></font></font></p>
+</div>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
 <br/>
 <br/>
-
 </p>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
 <font face="Arial"><span lang="ar-SA"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY">تستخدم
  </span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt"><b>else</b></font></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
@@ -41,39 +49,50 @@ is greater than 18&quot;</font></font></font><font color="#999999"><font face="C
 مجموعة من التعليمات البرمجية ليتم
 تنفيذها اذا كان الشرط الأول  غير محقق
 </span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt">false</font></font></p>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<font face="Arial"><span lang="ar-SA"><font color="#ff0000"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY"><b>مثال
-</b></span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt"><b>:</b></font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<font color="#ff0000"><b>مثال
+</b><b>:</b></font></p>
+
+<div class="code-box">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">int</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 time </font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">=</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">20</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">if</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">time
 </font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&lt;</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">18</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">)</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">{</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Good
 day.&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">}</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">else</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">{</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Good
 evening.&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">}</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#708090"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">//
 Outputs &quot;Good evening.&quot;</font></font></font></p>
+</div>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
 <br/>
 <br/>
-
 </p>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
 <font face="Arial"><span lang="ar-SA"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY">تستخدم</span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt"><b>else
 if</b></font></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
@@ -81,31 +100,37 @@ if</b></font></font><font face="Consolas, serif"><font size="3" style="font-size
 شرط جديد للاختبار اذا كان الشرط الأول
 غير محقق </span></font></font></span></font>
 </p>
-<p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<font face="Arial"><span lang="ar-SA"><font color="#ff0000"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY"><b>مثال
-</b></span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt"><b>:</b></font></font></font></p>
-<p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<br/>
-<br/>
 
-</p>
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
- 
+<font color="#ff0000"><b>مثال
+</b><b>:</b></font></p>
+
+<p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
+<br/>
+<br/>
 </p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
+</p>
+
+<div class="code-box">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">int</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 time </font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">=</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">22</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">if</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">time
 </font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&lt;</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">10</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">)</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">{</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Good
 morning.&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">}</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">else</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">if</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
@@ -113,21 +138,28 @@ morning.&quot;</font></font></font><font color="#999999"><font face="Consolas, s
 </font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&lt;</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">20</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">)</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">{</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Good
 day.&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">}</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">else</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">{</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Good
 evening.&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">}</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#708090"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">//
 Outputs &quot;Good evening.&quot;</font></font></font></p>
+</div>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
 <font face="Arial"><span lang="ar-SA"><font size="3" style="font-size: 11pt"><span lang="ar-SY"><b>جملة
 </b></span></font></span></font><font face="Arial, serif"><font size="3" style="font-size: 11pt"><b>if
@@ -138,13 +170,18 @@ else </b></font></font><font face="Arial"><span lang="ar-SA"><font size="3" styl
 في الشروط البسيطة حيث نستبدل أسطر متعددة
 من التعليمات البرمجية بسطر واحد </span></font></span></font>
 </p>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<font face="Arial"><span lang="ar-SA"><font color="#ff0000"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY"><b>مثال</b></span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt"><b>:</b></font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<font color="#ff0000"><b>مثال
+</b><b>:</b></font></p>
+
+<div class="code-box">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">int</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 time </font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">=</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">20</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">String</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 result </font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">=</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">time
@@ -156,109 +193,123 @@ day.&quot;</font></font></font><font color="#000000"><font face="Consolas, serif
 </font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">:</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Good
 evening.&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">result</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
+</div>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
 <font face="Arial"><span lang="ar-SA"><font color="#000000"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY"><b>جملة
 </b></span></font></font></font></span></font><font color="#000000"><font face="Arial, serif"><font size="3" style="font-size: 11pt"><b>switch
  :</b></font></font></font></p>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<font face="Arial"><span lang="ar-SA"><font color="#000000"><font size="3" style="font-size: 11pt"><span lang="ar-SY">تستخدم
+<span lang="ar-SA"><span lang="ar-SY">تستخدم
 اذا كنا نريد اختبار قيمة متغير معين من
-مجموعة من الاحتمالات </span></font></span></font><font face="Arial, serif"><font size="3" style="font-size: 11pt">,</font></font><font face="Arial"><span lang="ar-SA"><font size="3" style="font-size: 11pt"><span lang="ar-SY">اذا
+مجموعة من الاحتمالات </span></span>,<span lang="ar-SA"><span lang="ar-SY">اذا
 تساوت هذه القيمة مع أي احتمال وضعناه
 ستنفذ التعليمات البرمجية التي وضعناها
-في هذا الاحتمال  ليتم تنفيذها</span></font></font></span></font></p>
+في هذا الاحتمال  ليتم تنفيذها</span></span></p>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<font face="Arial"><span lang="ar-SA"><font color="#000000"><font size="3" style="font-size: 11pt"><span lang="ar-SY">يدعى
-كل احتمال </span></font></span></font><font face="Arial, serif"><font size="3" style="font-size: 11pt">case</font></font></font></p>
+<span lang="ar-SA"><span lang="ar-SY">يدعى
+كل احتمال </span></span>case</p>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<font face="Arial"><span lang="ar-SA"><font color="#000000"><font size="3" style="font-size: 11pt"><span lang="ar-SY">في
+<span lang="ar-SA"><span lang="ar-SY">في
 حال تحقق احد الاحتمال يتم تنفيذ التعليمات
-الموضوعة بعد </span></font></span></font><font face="Arial, serif"><font size="3" style="font-size: 11pt">:</font></font></font></p>
+الموضوعة بعد </span></span>:</p>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<font face="Arial"><span lang="ar-SA"><font color="#000000"><font size="3" style="font-size: 11pt"><span lang="ar-SY">وبعد
-تنفيذ هذه الأوامر يجب وضع كلمة </span></font></span></font><font face="Arial, serif"><font size="3" style="font-size: 11pt">break
-  </font></font><font face="Arial"><span lang="ar-SA"><font size="3" style="font-size: 11pt"><span lang="ar-SY">حتى
-يخرج من الجملة </span></font></span></font><font face="Arial, serif"><font size="3" style="font-size: 11pt">switch
- </font></font><font face="Arial"><span lang="ar-SA"><font size="3" style="font-size: 11pt"><span lang="ar-SY">مباشرة
-بدل أن ينتقل الى </span></font></span></font><font face="Arial, serif"><font size="3" style="font-size: 11pt">case
-</font></font><font face="Arial"><span lang="ar-SA"><font size="3" style="font-size: 11pt"><span lang="ar-SY">التالية</span></font></font></span></font></p>
+وبعد
+تنفيذ هذه الأوامر يجب وضع كلمة break
+حتى
+يخرج من الجملة switch
+مباشرة
+بدل أن ينتقل الى case
+التالية</p>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<font face="Arial"><span lang="ar-SA"><font color="#000000"><font size="3" style="font-size: 11pt"><span lang="ar-SY">في
-حال لم ينفذ أي </span></font></span></font><font face="Arial, serif"><font size="3" style="font-size: 11pt">case
- </font></font><font face="Arial"><span lang="ar-SA"><font size="3" style="font-size: 11pt"><span lang="ar-SY">يتم
-تنفيذ التعليمات الموضوعة ضمن </span></font></span></font><font face="Arial, serif"><font size="3" style="font-size: 11pt">default
- </font></font><font face="Arial"><span lang="ar-SA"><font size="3" style="font-size: 11pt"><span lang="ar-SY">ولا
-حاجة لوضع </span></font></span></font><font face="Arial, serif"><font size="3" style="font-size: 11pt">break
- </font></font><font face="Arial"><span lang="ar-SA"><font size="3" style="font-size: 11pt"><span lang="ar-SY">للحالة
+في
+حال لم ينفذ أي case
+يتم
+تنفيذ التعليمات الموضوعة ضمن default
+ولا
+حاجة لوضع break
+للحالة
 الأخيرة لأن البرنامج تلقائيا سيخرج من
-الجملة </span></font></span></font><font face="Arial, serif"><font size="3" style="font-size: 11pt">switch</font></font></font></p>
+الجملة </p>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<font face="Arial"><span lang="ar-SA"><font color="#ff0000"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY"><b>مثال
-</b></span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt"><b>:</b></font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<font color="#ff0000"><b>مثال
+</b><b>:</b></font></p>
+
+<div class="code-box">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">int</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 day </font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">=</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">4</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">switch</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">day</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">)</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">{</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">case</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">1</font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">:</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Monday&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">break</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">case</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">2</font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">:</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Tuesday&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">break</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">case</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">3</font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">:</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Wednesday&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">break</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">case</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">4</font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">:</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Thursday&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">break</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">case</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">5</font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">:</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Friday&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">break</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">case</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">6</font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">:</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Saturday&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">break</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">case</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">7</font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">:</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Sunday&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">break</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">}</font></font></font></p>
+</div>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<font face="Arial"><span lang="ar-SA"><font color="#ff0000"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY"><b>اختبر
-نفسك </b></span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt"><b>:</b></font></font></font></p>
+<font color="#ff0000"><b>اختبر
+نفسك </b><b>:</b></font></p>
+
 <p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
 <font face="Arial"><span lang="ar-SA"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY"><b>اطبع
 </b></span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt"><b>hello
@@ -266,52 +317,58 @@ word  </b></font></font><font face="Arial"><span lang="ar-SA"><font face="Courie
 كانت </b></span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt"><b>x
 </b></font></font><font face="Arial"><span lang="ar-SA"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY"><b>أكبر
 من </b></span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt"><b>y</b></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+
+<div class="code-box">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">Int</font></font></font><font color="#000000"><font face="Courier New, serif"><font size="4" style="font-size: 13pt">
 x =</font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">50</font></font></font><font color="#000000"><font face="Courier New, serif"><font size="4" style="font-size: 13pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">Int</font></font></font><font color="#000000"><font face="Courier New, serif"><font size="4" style="font-size: 13pt">
 y=</font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">10</font></font></font><font color="#000000"><font face="Courier New, serif"><font size="4" style="font-size: 13pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#a6a6a6"><font face="Courier New, serif"><font size="4" style="font-size: 13pt">___(</font></font></font><font color="#000000"><font face="Courier New, serif"><font size="4" style="font-size: 13pt">x__y</font></font></font><font color="#a6a6a6"><font face="Courier New, serif"><font size="4" style="font-size: 13pt">){</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.out.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;hello</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">world&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);}</font></font></font></p>
-<p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
-<font face="Arial"><span lang="ar-SA"><font color="#ff0000"><font face="Courier New"><font size="3" style="font-size: 11pt"><span lang="ar-SY"><b>اختبر
-نفسك </b></span></font></font></span></font><font face="Consolas, serif"><font size="3" style="font-size: 11pt"><b>:</b></font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
-<br/>
-<br/>
+</div>
 
+<p dir="rtl" align="right" style="margin-bottom: 0.11in; line-height: 108%">
+<font color="#ff0000"><b>اختبر
+نفسك </b><b>:</b></font></p>
+
+<div class="code-box">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<br/>
+<br/>
 </p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">int</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 day </font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">=</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">4</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">switch</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">____</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">)</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">{</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">_____</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">1</font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">:</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Today
 is Saturday&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">break</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">  </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">_____</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">
 </font></font></font><font color="#990055"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">2</font></font></font><font color="#9a6e3a"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">:</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">System</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#000000"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">out</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">.</font></font></font><font color="#dd4a68"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">println</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">(</font></font></font><font color="#669900"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">&quot;Today
 is Sunday&quot;</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">);</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#000000">    </font><font color="#0077aa"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">______</font></font></font><font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">;</font></font></font></p>
-<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-left: 3.00pt solid #04aa6d; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
+<p style="margin-top: 0.17in; margin-bottom: 0.17in; border-top: none; border-bottom: none; border-right: none; padding-top: 0in; padding-bottom: 0in; padding-left: 0.17in; padding-right: 0in; line-height: 100%; background: #f1f1f1">
 <font color="#999999"><font face="Consolas, serif"><font size="3" style="font-size: 11pt">}</font></font></font></p>
+</div>
+
 <p style="margin-bottom: 0.11in; line-height: 108%"><br/>
 <br/>
-
 </p>
