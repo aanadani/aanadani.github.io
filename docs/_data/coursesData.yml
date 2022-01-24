@@ -36,7 +36,7 @@ categories:
        url:   'programming/java/java-arrays.html'
 
  - id: 'Computer-Science'
-   title: ابدا هكر
+   title: 'ابدا هكر'
    sub_category:
       - title: hydra اداة
         url: 'computer-science/hacking/hacking-1-hydra.html'
@@ -52,8 +52,8 @@ categories:
       - title: 'insertion sort - ترتيب بالإدراج'
         url:  'computer-science/algorithms/insertion-sort.html'
 
- - id: OS
-   title: أنظمة التشغيل
+ - id: os
+   title: 'أنظمة التشغيل'
    sub_category:
       - title: 'مقدمة'
         url:  'computer-science/os/operating-systems-intro.html'

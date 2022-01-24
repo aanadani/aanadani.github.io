@@ -1,7 +1,7 @@
 ---
 layout: "detail"
 title:  "مقدمة"
-categories: computer-science os
+categories: os
 permalink: /:categories/:title.html
 type: 'course'
 ---
