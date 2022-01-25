@@ -5,7 +5,6 @@ title:     "ترتيب الفقاعات"
 permalink: /:categories/:title.html
 type: 'course'
 ---
-
 <div class="col-12">
 <bdi>
   <h2>
@@ -208,7 +207,7 @@ type: 'course'
   O(n)
   </p>
   <h3>
-كود الخوارزمية:
+ : التطبيق العملي 
   </h3>
 </bdi>
   <div class="code-box">
@@ -263,4 +262,80 @@ int main() 
       </pre>
     </p>
   </div>
+  <p class="content-p">
+  يوجد هناك اصدار محسن لهذه الخوارزمية بحيث تتوقف الخوارزمية إذا لم تقوم حلقة التكرار الداخلية بأي مبادلة 
+  </p>
+   <h3>
+: التطبيق العملي 
+  </h3>
+    <div class="code-box">
+    <p>
+    <pre style="line-height: 1.5em;">
+// Optimized implementation of Bubble sort
+#include <bits/stdc++.h>
+using namespace std;
+void swap(int *xp, int *yp)
+{
+    int temp = *xp;
+    *xp = *yp;
+    *yp = temp;
+}
+ 
+// An optimized version of Bubble Sort
+void bubbleSort(int arr[], int n)
+{
+   int i, j;
+   bool swapped;
+   for (i = 0; i < n-1; i++)
+   {
+     swapped = false;
+     for (j = 0; j < n-i-1; j++)
+     {
+        if (arr[j] > arr[j+1])
+        {
+           swap(&arr[j], &arr[j+1]);
+           swapped = true;
+        }
+     }
+ 
+     // IF no two elements were swapped by inner loop, then break
+     if (swapped == false)
+        break;
+   }
+}
+ 
+/* Function to print an array */
+void printArray(int arr[], int size)
+{
+    int i;
+    for (i = 0; i < size; i++)
+        cout <<" "<< arr[i];
+    cout <<" n";
+}
+ 
+// Driver program to test above functions
+int main()
+{
+    int arr[] = {64, 34, 25, 12, 22, 11, 90};
+    int n = sizeof(arr)/sizeof(arr[0]);
+    bubbleSort(arr, n);
+    cout <<"Sorted array: \n";
+    printArray(arr, n);
+    return 0;
+}
+ 
+
+      </pre>
+    </p>
+  </div>
+  <h4>:  التعقيد الزمني لهذه الخوارزمية المحسنة </h4>
+  <p class="content-p">
+  <bdi>
+  في الحالة الأسوء والحالة المتوسطة التي تكون فيها الخوارزمية معكوسة يكون التعقيد O(n*n)
+  <br>
+أما في الحالة الأفضل التي تكون فيها المصفوفة شبه مرتبة يكون التعقيد الزمني O(n)
+<br>
+وبذلك تكون أفضل الخوارزمية المحسنة أفضل من حيث زمن التنفيذ.
+</bdi>
+</p>
 </div>

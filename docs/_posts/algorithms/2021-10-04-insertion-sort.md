@@ -127,15 +127,15 @@ type: 'course'
   كود البرنامج:
   </bdi>
   </h3>
-  <div class="code-box">
-    <p >
-      <pre style="line-height: 1.5em;">
+<div class="code-box">
+  <p>
+  <pre style="line-height: 1.5em;">
 // C++ program for insertion sort
 #include <bits/stdc++.h>
 using namespace std;
 /* Function to sort an array using insertion sort*/
 void insertionSort(int arr[], int n)
-{
+{ vectore<int>
   int i, key, j;
   for (i = 1; i < n; i++)
   {
